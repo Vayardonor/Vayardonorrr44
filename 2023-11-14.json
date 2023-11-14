@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Caldwell",
+  "age": 56,
+  "address": {
+    "street": "Licneg Place",
+    "city": "Avususeb",
+    "state": "NE",
+    "zip": "87589"
+  },
+  "contact": {
+    "phone": "(804) 362-4569",
+    "servicePhone": "800172936"
+  },
+  "birthday": "1971-11-02T23:43:41.202Z",
+  "ip": "68.75.163.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Ak vatic utne pim pafodte al lewdiafe cod malto rom wed wadresrem. Jegrakjur uflar pel teh fuevi falo lowvig gipdu pig suudzu licos vujic haz tu. Aw jed ok duh halgam vuwenge fagufo kew hathaeze ra wepotne dofarpun lu pido.",
+    "bio": "Eki ensig adoziw korusoz cioh kuje jeut dinvek ganma lidala bivla hu fe pobotvo. Vooca vokmef ova mazuce vic nehoh tepe pup nu sanjoket ug igosuv zodwakki anufufsak rag hidas soc. Gohege zaidwij pegefhik ecitemaz namalav ufzo eb kagelahi ahretez go anulizja obera dapev bov inugolzud."
+  },
+  "apiKey": "f13eddc15e78dc4ffb0441bfb8ff4856cad31f962615f8638c006dbc4dd07d0c",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
