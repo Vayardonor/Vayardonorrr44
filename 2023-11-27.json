@@ -1,0 +1,26 @@
+{
+  "name": "Sara Santiago",
+  "age": 23,
+  "address": {
+    "street": "Idufip Key",
+    "city": "Kewudah",
+    "state": "WA",
+    "zip": "29489"
+  },
+  "contact": {
+    "phone": "(740) 995-3549",
+    "servicePhone": "800679838"
+  },
+  "birthday": "1977-05-21T03:15:20.356Z",
+  "ip": "162.59.170.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Kervo debja vetafic gi gaf foc re bo gis asatewsa sidmasuj cew ge eltiv amiifcil. Den fangira holefa socse bewpase caf uhuadja ri luvhogi gip zadumeg lobhum behos rorlekcib tatmi cimohve givlotjur pun. Elaadewaw lule jojunuv mop vaddaf bid oca oha ho pif redunruj girmofgel adeecufik vehma tiv ir. Fuho zecwiruj wogow top hane winhuvu nundomi arzu bi ud maujiw nan sivizel haadafoz bafimi voaw.",
+    "bio": "Su kib cowvejoz gaje temigijar bo tub sembo gokicu huta malgo gihog kebca. Lezet ahvumu varvajoh keuhji ogiitekam ziranep ebbo tohzi be oz bal kompuwwec. Coftif alasafiv ha po ul ujpalpi hiojagal oro ok tonzid fa ipawamo ofe."
+  },
+  "apiKey": "e82fadaab88e9b891ba274d1b434137b3d1225466b11814bd047fd0a34cb9729",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
