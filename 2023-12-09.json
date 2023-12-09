@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Frank",
+  "age": 40,
+  "address": {
+    "street": "Pasci Place",
+    "city": "Bulladpe",
+    "state": "NH",
+    "zip": "28366"
+  },
+  "contact": {
+    "phone": "(353) 512-4588",
+    "servicePhone": "800967385"
+  },
+  "birthday": "2004-05-18T11:47:32.143Z",
+  "ip": "85.52.82.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Fozaji rusos nel epabubiv furuficeb siztic kam peoso viv ucifinne ta foice kozokoh suzi nizer. Gessoug tenoke dubodtu tufbebufo jodgaha pidmub tenfuvseh nursaw igaej zaza wikbohu huut soztikap varifaf gof. Leg han lijsiretu pepug vukzupu fab seczegiz pap didaezu ubgoza fufivpe je ezciv dog uvbiwjes hijuhin. Iz ispi jenako ipgues haga ogceket sorujbog ucsek hiresog dacomako pir cabpun tujaf zanasvu lonardan ni ukoli hidaca. Awsi ud oddo go udvabmo vur pe suvo zebofza uc fa re ukiluhbib ef wuklituj ow guvurop mouvu.",
+    "bio": "Hoh welo egimafsop macijsek waw ededomkuh gaizejod asogacu hu vojneok pazocmo riod iw tidogo gawjirref bujpahome virebezob. Ujozan sufu jijja situluac bojnu gaz bel ib pif fe do zobbo gaveopu etsa hicujfu zerpu gazog. Nutu wulirun budpaw pod tilkup opdo imwiz ukuiso umoko apder ehakid mu kokpij nabev wud jenofra fej fevgevuf. Zes emi ivulo ijuig ezegivcom runumi napta urawe pur wucje enlepac ocralu ewopug sem luocuuc la bacal."
+  },
+  "apiKey": "683ebd1e8b9107e84e8dbbaa6c9f03111a5fac4a1c109d601567e4c6ad60d4c6",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
