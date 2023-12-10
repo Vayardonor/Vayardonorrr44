@@ -1,0 +1,26 @@
+{
+  "name": "Evan Reyes",
+  "age": 24,
+  "address": {
+    "street": "Ugce Circle",
+    "city": "Joawofi",
+    "state": "CT",
+    "zip": "23560"
+  },
+  "contact": {
+    "phone": "(217) 207-5993",
+    "servicePhone": "800663198"
+  },
+  "birthday": "1972-05-10T13:02:31.307Z",
+  "ip": "83.248.164.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Ceoj baza tes ruruw jenhu bohave hupkotul furita uklunne viano ej muule. Filror ca hamce rik ti cinzoepi lo kunwu vun suhtatut doh biw lisiguk izfi. Hu ru bu cewije bubfivin waloniego pacgik eko vip weg ilteg vawader fabavruv.",
+    "bio": "Wiene mobkegug pel watgop rakrap um su opowug zudon jeicomi opunvut lifidi rifa wasepupak lowoh tugnuw no. Lujera newbof mavtozvi vecolace va zu usiludzat uwi ekubogu ikafowof cise az reviwzon bop evokeolu gavaz parofwoh. Fo waritru irdek ji kosa diru owfurtin cum gima balmiuva sih sasi dubungip il ileofuzac uzovewto."
+  },
+  "apiKey": "f5e2dcd503b150f5e061837314938b868d244425c67a409acfe22b07d02323bf",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
