@@ -1,0 +1,26 @@
+{
+  "name": "Keith Beck",
+  "age": 26,
+  "address": {
+    "street": "Gacte Glen",
+    "city": "Kohasuf",
+    "state": "FL",
+    "zip": "97405"
+  },
+  "contact": {
+    "phone": "(740) 622-1101",
+    "servicePhone": "800468872"
+  },
+  "birthday": "1967-09-20T02:29:38.215Z",
+  "ip": "208.200.67.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Giz teheor vin didki jipuw upaguj mog caduwros ge furwudala goomoja aleme di. Ukij dow tiriha apci lelot ipisojon ami debi dicefod aj dodon nun. Mefethuv bes bi ze ke simoci efahiwun haip onoguwsaf erovevlu mok oro conev dom zav. Givrogti waprul sewnube kaaj ko ahdoza sofestar zatfa paw itwuwo veej cug. Echefduv fi robbo agames hovomem monu mizecido aphigo duw los pagfu ob ce. Neprazpo be nokseszo lekazmuk ihu uf tumika pidur la nad ozsebu inwowi dumpoz dut not bevtu.",
+    "bio": "Mabiwitib guic da zuk gesor kacohfa bo puvhi biogu gastumew enamewrez ko. Had gu birvupof lij levsimu wijomzuj du sujlakeb soc lotihi abobujpa ga begofpe unuj. Caregel ki omena sip va dezes ilavaw anpopmu ricisa aruheson vuwaif vevocgin kikwih izut ud asufum. Hatde rekug aci ho os zatobbol seijiwap ecihifu cugpuw bozo hotoku otujo seviini mago utapini. Sujujufu luugo der uv dafa vel iw camwawhu ankegka ribom bimur kab vuile."
+  },
+  "apiKey": "4bb69e4ffdd4d214b66e023d2e74061e6e29e7349cf85292666cf5f2653a3898",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
