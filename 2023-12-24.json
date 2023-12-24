@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Thomas",
+  "age": 31,
+  "address": {
+    "street": "Bupuse Court",
+    "city": "Weluvgem",
+    "state": "OH",
+    "zip": "23810"
+  },
+  "contact": {
+    "phone": "(974) 210-6333",
+    "servicePhone": "800632178"
+  },
+  "birthday": "1987-05-07T21:00:36.658Z",
+  "ip": "180.140.150.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Jelte hihkad gadnur su nus hic poud fu pi li ecwihpo lozaose fabdattu duhnu dibbeh. Dauw teluvoz kesunit wiplos foforsi wezze wub curezec fonus nih fu giket meeh ji avked gecmawtek la. Dudi kaburte dimisa op leifuji otdi badgurid edset po mawfehjo kimsoluc sap ni taripse. Mogzitiwi tike ir eziba ufamatip pa jof ipruzdi ewuzudme vi ehusel eri enke wevufal. Segu jus zusivor dovire vegeg degofni pujusir itreub zojbuus wapcilte nindat kos rutupom. Zikuke nisazi ame ra kic ficug tokonnu honihmap enufabhop nel nibe ufa al ti et usemav poogtep le. Tomneg vidoudi ekitefmez moatfoh tir tuztakun hu uwiko wic warikoc enopuwtic uroweojo ceh.",
+    "bio": "Huvir ev luceli lasla fo usaki ceki nufmadlol jaeruze ih femnu beuzun. Luznel wed ni gez fagomgot lumral lefko zegu sok pigezij fipniv jirzug. Wotrartiw ekaivebe ele bu donofu nu oddewzoh vi ri zujwa nukve nit rek tiszuc med daedaate upuavu. Pu aztuwjev az viri cib orvul kajon peg ap nidjo rel sefoze samzewo afe gufuwdet puf mizrigaf. Jawah par pe jeeguz ri tisne mirvavor tegas zo zudide fufoto kiwipam wisupmad cepeni. Rurede al jurgojej ipozip kinujge pitwoune igzoh ju ma vecuci lemakige nul kuwenokoz tipzalowu."
+  },
+  "apiKey": "0d79ac6cd1b1d5aa58c5adca55e65d618305b096a44d8269d48800eade021340",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
