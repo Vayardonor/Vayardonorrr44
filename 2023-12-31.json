@@ -1,0 +1,26 @@
+{
+  "name": "Luis Morales",
+  "age": 24,
+  "address": {
+    "street": "Lanid Center",
+    "city": "Ogoarnul",
+    "state": "GA",
+    "zip": "64056"
+  },
+  "contact": {
+    "phone": "(707) 724-5983",
+    "servicePhone": "800569124"
+  },
+  "birthday": "1999-02-11T15:21:42.468Z",
+  "ip": "135.229.152.33",
+  "foo": "bar",
+  "profile": {
+    "about": "Osati mal peulu kehpi veg cuj loniuke tac ut berugwa temuvuzu rinfita devi dig tokut tijnehnem. Bog kiuta johunbeh fadaf geraw zoksiver nobrier biwwealu halfo natrugbem wogwa eno egsici dupka ivokinuj gowi zijehkuc. Neznumu kovife if ifrak pab oniuwi amo vijalon av toz me ru wufowla honmi lafukkaw ma fomuva. Ecu votpuci cikatbuc zafvushov dossu zivfespav jem busnarcor toku ipjawa hit ab wasaguj kolib zolib fab. Dafca dohse ce bofdoju hizribgaw so ukodo sobrac otebi tibikjeg kevicu pe vejcub fehun ijtonan gamiz haboc. Ice uz detdele fagzucbo zogew mohhuves ho taj kinbol lipiw gocod jicjekget iceuka tifeovi folazop tajroc ewde.",
+    "bio": "Us ifa kujiwiki ovvilu ru et si mupimu rabagob bu nivihu fe. Du seamuloh if cufdushu miefeta mugtauju osew fat palul dotiva gibor mokmafu no. Efacamkir me jofwig falwale tajlecwe muctolav iz do sil ahu sof cokbafi occinfe pe onu rehihtes."
+  },
+  "apiKey": "97f9b537c9d16173c89d85a241b7fa20b0c5bf6843d010de101f329dbe36eb52",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
