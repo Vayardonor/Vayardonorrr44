@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Robinson",
+  "age": 40,
+  "address": {
+    "street": "Ikzoj Ridge",
+    "city": "Deptafec",
+    "state": "ME",
+    "zip": "66440"
+  },
+  "contact": {
+    "phone": "(501) 414-7399",
+    "servicePhone": "800675255"
+  },
+  "birthday": "1999-04-03T14:28:40.727Z",
+  "ip": "9.45.8.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Tirru teafu ocofu edo vazan pakfiv gi sepajedi go va eve gicve vacsiz. Pabifav kior ufiovel cu cuoto zic pivafvat opu midsunel vew zos luemetu absi. Cug hejvu ujawa wumbo gedo ef lo zozdestap bobodem lu ithej wo. Motrunef kiwka lizo kow caveha zakukuji bikaka na aculikij geh din espi tiuz moktif nik.",
+    "bio": "Lijfa pimuv sejbo bopha goneve dibedejet uvaveize asevipra rutkeero ciakehu wu afo co iduci kuhce otlaj di ciucwo. Ce obepu ocro tonlu acoacgur ruro di pi dehozu itbi juesomi malomop civze. Pe sepelca johum iculopup luv ilej jom nona akajmir vad koaklic duanmos. Lupiv ahdit hali onvecker mis dauvabe wartuce feti wenjufo uwa wogewlis vekazjed. Ajivig edeva leprat zojlawkaz hiwjo wakka ojkil uthew ne davmezan ecojin rotvub. Jinze wonuaw wogdol buojizo ha ma zem momofseh ve beipa hejso evoj kenam. Def lozi zar kasper omuviz cezok lurivoun wegzo hejazulu cokosrok ubda ogfu ibfopka la kengape vetfog."
+  },
+  "apiKey": "376c49d185f9ca4f16e2dbde417f73a3a48d6e106d359e09fea1de1951acf187",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
