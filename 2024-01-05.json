@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Wagner",
+  "age": 55,
+  "address": {
+    "street": "Ulodi Trail",
+    "city": "Rullokvu",
+    "state": "MS",
+    "zip": "36603"
+  },
+  "contact": {
+    "phone": "(643) 676-9618",
+    "servicePhone": "800869499"
+  },
+  "birthday": "1982-11-28T22:45:12.895Z",
+  "ip": "150.97.36.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Zemichi egita vug kij ez voftigwug ic dowhikode gihiwo ke nujuiw gogrom ofeikemos timcen obihekak mud rul ojijrew. Toir ezvavli hizag awa huoc hugpakkev nuja jabo biloka vuhiki kicoci gikomub zaduz kipekak ornozab cabu nonnupju siwenu. Zonoz utizewkaz juliwev mammog hoohubin vukvisfas eje jumkobej pe kac mocvizek bis gup ladata vakcuil.",
+    "bio": "Dazto vuhifub tamucda il ez ib katseiz kom kew faheb ari aw vutoge mi ademanom pam. Toca udiwi de te sahe nud ihe wivto ca butnihfav dorigi enoce zag. Pancopcod gihme osiseji bam gu sirouv ci bulan hokhih baak ibbup biw ubile vecrute. Sadkegve dulje jasac itwi ore zaimomu sep god sonizi bukro apase adocizod juza. Gothope ede mifwuj panajoku hudsab kagew jiteg zudibne zaez alolif nauji denel wozuj. Wo wig popevi fogih jehlife wozohes fot pipacni ukimow mewfezsuj ebfusjop apret riiche dasfawi hakrijlo. Luwelo fahwin secjajkot fap fogaoja jimivu utfudjin cib kunpac ewheko ticage wiora vi mez."
+  },
+  "apiKey": "13e11c28181605ab1eb9437eb61d789855e6dae17041c421c9229e84be8f333b",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
