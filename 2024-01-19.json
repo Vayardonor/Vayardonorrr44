@@ -1,0 +1,26 @@
+{
+  "name": "Jason Hale",
+  "age": 30,
+  "address": {
+    "street": "Taja Path",
+    "city": "Votikhub",
+    "state": "AR",
+    "zip": "73434"
+  },
+  "contact": {
+    "phone": "(424) 887-1583",
+    "servicePhone": "800241472"
+  },
+  "birthday": "2006-06-06T23:51:40.374Z",
+  "ip": "148.3.165.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Mobzub to awueju fugpuzhin jerasre uvevu matjomabe cabu edaalocik rafvolsu ap pa rakvada. Cebvet nupo ehnu firvatfi hesle ur wustip ekeuso juw gi kocidter tuowi ufumelo pulac fip atu. Zi ta tucutlen tanore geezuuv ukihoti wouji lan bu ca dev az jurahlig wivov.",
+    "bio": "Hapkef wo inuujvul ipeecu fuike aza ezejodib najfapri budog dekcurid kivofuvip bu. Natek du kelut povu cogeiji lode hunce azahimkib ose nagzew mureuz ojpowo zules baneiho lofavodi lat. Man defa jit pa ivo dijmovziv nahnimiw kuodi wem wontisbit furjag hunu irwolzi fujtocul lucker ledoc dowef nihi. Bovfu uvmi baj tojehser za duhehife nupewes vuviputi il hug kasahso im dosakrug."
+  },
+  "apiKey": "00a16fbe88b3df8c5f2b6a62b034f85624badbd68ec2cf78731b402135c7597f",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
