@@ -1,0 +1,26 @@
+{
+  "name": "Victor George",
+  "age": 26,
+  "address": {
+    "street": "Repce Glen",
+    "city": "Zovarota",
+    "state": "NM",
+    "zip": "74780"
+  },
+  "contact": {
+    "phone": "(705) 656-7448",
+    "servicePhone": "800974559"
+  },
+  "birthday": "1961-10-02T10:56:25.306Z",
+  "ip": "133.230.37.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Sumi ha fe nupiw dicbiji civ ise tazu linalij lomwuvar lizunta epleni vudo. Duec ofaededus hogi capab tihizdiz hilnauru mo ra zevhesof wijza givre kor ilevirsim hobso. Mulor eftif lephaz tiwniczim apcuftoz lali sonke hesgebcit rusuebi angom sopvog gavup.",
+    "bio": "Hajsi gir fol joejmag deweba mis raje ma epagaza wabosin owevsu hicno. Bit sefoja nizu he emauto gapolnad ri jeta vehagesup ge kinuj bi wejtuk eheizo jirhicec kovez. Elhelfib bomoc emine tuwo el newnebim socfocnu mencu ajapuw jahawda gaucgec wuphak en."
+  },
+  "apiKey": "468de3d8ece0d30e2d3f938b2d1f5ef145d6f5bfdde50b6801a0e640eea805fc",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
