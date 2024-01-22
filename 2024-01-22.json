@@ -1,0 +1,26 @@
+{
+  "name": "Irene Lewis",
+  "age": 58,
+  "address": {
+    "street": "Arpuz Street",
+    "city": "Burfamek",
+    "state": "ID",
+    "zip": "68678"
+  },
+  "contact": {
+    "phone": "(603) 798-1509",
+    "servicePhone": "800272594"
+  },
+  "birthday": "1998-10-11T20:11:55.881Z",
+  "ip": "52.29.154.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Ita jo waje vi ufujru momkarug tef soslutrug wabsogwo mi nannase he tajfu nafmu ifu usse vadlujmo. Sakez denawa mifin fadumo toobve ti fufwuh le vajulon gefba mahtis ji rejaguf og nol vicnu urivo epasig. Mos beg vel fohuso suwakuv fozirto neisioc ce gor onip cefan tahramu mehzelno riajve ugpop.",
+    "bio": "Figube varke fi oz ni wenovu ujpawtic deelumuw cilep dav fe dikez ovpisdev anece. Suppocaz konakilo ceikodoj meweke cepa buahicud fibtoger me bet rurmihnur tipvawip of jige al kiftado gu ab jeszadol. Rib kubwac efetoj fokjaze ufikuj ku sorwarum giz took romok ukerew gafpo se pewo caba cucag."
+  },
+  "apiKey": "c7f5b3c3bbf3697b6f6d7385d5916834235f4cce01420d2d2c45c9c9b8757783",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
