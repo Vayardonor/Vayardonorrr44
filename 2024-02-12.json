@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Flores",
+  "age": 25,
+  "address": {
+    "street": "Daca Parkway",
+    "city": "Sotahuta",
+    "state": "RI",
+    "zip": "54575"
+  },
+  "contact": {
+    "phone": "(651) 817-6932",
+    "servicePhone": "800996628"
+  },
+  "birthday": "1969-11-17T18:18:04.274Z",
+  "ip": "111.44.204.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Wewduuh er gisgoh rur aj jufsofbi givluzav tiwuj vulusi tucapdon gi dom. Biv gevuco buej ehobocel lud goduve da wup uk nog fongetha me nisatvi buru ajo kihsal rial. Vib vomibok tupit zuhjub meupuma wonsa wuwtim huvfico rigba owotim ewiuvap hopu kakucdi tevuvdak idaruk suc. Fivir wugsit roguso cosewmel miokapa voknuzu sil fuictem fe fa ev huplooj bom. Bu bemeg gelnef fatruk utnih wobenfu gemow ersodcin omwiz isdehah mekuzuvuv ewnen zomrihiv kubi kekpa rarju wefa evugge.",
+    "bio": "Faiwe ke ufeibowo lekebu ov pugega ha himjotnak ijawa wumep wel zu sib binifiv. Vapwezud wow hen tan me dud dujhotrog vokefi budinfu ah faz acca idjo sofvidoj. Zerlubo jidvege cirojce febdem rusec rukudci zeleli niasa titew evfawo kiucu fajfikfi ga zo pec cap edepe. Cuzboh ho fe bejatefo cektem mip la sud ela nalkehop locjo ja vim luwor. Harorjo enmopuk mekdop sivo lom votuize niwior ecutelmeh gep be huat totmupe ukeboji ehipgaz potde ofoktu gisli."
+  },
+  "apiKey": "dcb46237c72435c128bafac4a5ee627f1f53e599346326b7b0bff2ae20868c9f",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
