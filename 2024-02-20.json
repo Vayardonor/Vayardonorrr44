@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Reed",
+  "age": 20,
+  "address": {
+    "street": "Ovabe Loop",
+    "city": "Amuseta",
+    "state": "WA",
+    "zip": "78139"
+  },
+  "contact": {
+    "phone": "(545) 771-8330",
+    "servicePhone": "800785369"
+  },
+  "birthday": "2005-02-22T15:35:43.788Z",
+  "ip": "49.99.202.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Se di uwiwara eb zi eda avuupede lutdo vomtecci aj is zehkazer vuv. Jispehus ter cowgudil reloj ib ihaumtat jappeegi solgevog jibpi in wuhcow li pigigu egutif mehreg mefake ju. Az fo fo mezod ob odwo mucva garinof ufu ek ade kusegsuj todwom nihwa tadgenduc. Sebotaw miv net sakon ehu viwa va owavusvi ciiri ahapuag petle jefag sa nipte lugzekra tusmuc.",
+    "bio": "Apdoknif rubmo hag ujunejufo sum timcuda ocajuido su diwinlu kesehzuh ma nep irkuka zoopves kelkazvep ejuihhuf zo. Le kaje bicadose ri wuw jetolu can ekilehcak pitkak citmobgib korrorug hafalew jah. Hogis bagi fusdebal lami holofo ucimij inuuhji jacoz hizobfaj hap vafgero vopva sa aga sa segu."
+  },
+  "apiKey": "9153a16d6cb35e149de8cb1c001561144881dfcd093ae8f14e6b2802a64b199a",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
