@@ -1,0 +1,26 @@
+{
+  "name": "Hulda Swanson",
+  "age": 27,
+  "address": {
+    "street": "Guduj Place",
+    "city": "Lamsawfe",
+    "state": "KS",
+    "zip": "18958"
+  },
+  "contact": {
+    "phone": "(484) 359-7410",
+    "servicePhone": "800337669"
+  },
+  "birthday": "1959-08-16T09:00:02.896Z",
+  "ip": "246.147.128.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo dap eb zojibo kavgu omemuit misgolu ram gopew sot gobucegi fobu uduvo ginolsoc cic fotwub mi cefresbej. Lupu or nedbid za gi hen wobit tugon wuhebji kejo tobaghan to ago na pewibciz vica edduje raochi. Seg sef coku moc vo resuzo gojov le niurabid jerfam nac zal juf aseefe.",
+    "bio": "Rahsa tittahet fi haz fot dophor ojlep voof owe letujowo gilvo hasip roj wutmemwis fe zetak za mijab. Iwfazlep uk enaki suw javad ivgijec zak vachul kotud balavar lin jelefwi. Elviz vifni hov etcumbu zo few gefgeej hialenod nahtunki jasa ale ku cez moffuvac."
+  },
+  "apiKey": "ac3d1a0d678c741957909e1f78e92563a860cd1fc7f1e102cf70df24b1d9d0d9",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
