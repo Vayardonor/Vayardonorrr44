@@ -1,0 +1,26 @@
+{
+  "name": "Carl Klein",
+  "age": 37,
+  "address": {
+    "street": "Tekip Manor",
+    "city": "Foliaja",
+    "state": "UT",
+    "zip": "34008"
+  },
+  "contact": {
+    "phone": "(447) 477-5073",
+    "servicePhone": "800355589"
+  },
+  "birthday": "1985-07-16T21:09:32.513Z",
+  "ip": "21.232.217.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuthoaha fudehe uvonithi sew coz ufpe gaf tesve ubirja okizipu hes ta sovhavu hag nib. Fum zowip uhipe ji az zutfikat mucuj irhagok vefu gohu afoes uwi tukit ra ruf kit lawinag refuku. Ucsovkan cos zegaza ha tov ujolor usunika fuz tijeh ujowag pavjijej vujamuvek gimodat wokuek azace apege hotbu emesil.",
+    "bio": "Ovi hudowro savhik nizfe niptegnu vuk zo siode zice voha erecidag ogmejo wu adalafka. Jube monan mavamdop jufsowju wo lurhauko fihet uf pe ruehetuw gupimci tupavevi zomag. Kajgefapa potfug biribsig ezobej macka parwan pevowi boha ja kacij vis cino apulu muverog van lohrima navi. Kazjisi sunazo op him wegut dunewpo pebvilel miti himiwi kasar tujwo rocaksi wazihu acsov hidmo tozawac rujorba. Fuswodpif kelmu mowuluh sazujtu icve ves saf beilewi kap vadpe haobtij ugdu. Hislot gim idmi towutar vuula hol tovig zeguuc tualu lov koripu mer mib. Fa dodosgop elevitmem betleere jabutez mezlo etani ir fujgonfok be sor wevikuj sobate bibi urupubek."
+  },
+  "apiKey": "449ce144f72783ca66b4eab7a97b53e6e08425c10c79ee91cdf7569c03ba2195",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
