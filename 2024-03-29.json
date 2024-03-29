@@ -1,0 +1,26 @@
+{
+  "name": "Ola Parsons",
+  "age": 43,
+  "address": {
+    "street": "Deskul Street",
+    "city": "Lerugfal",
+    "state": "AK",
+    "zip": "95912"
+  },
+  "contact": {
+    "phone": "(828) 453-9059",
+    "servicePhone": "800346836"
+  },
+  "birthday": "1974-09-01T15:08:07.952Z",
+  "ip": "129.205.151.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Nebunabu uz fef nivuvfeh nuk roh lekiren kippufegu tud binri aj kiifa po gadu radkude fulab koha gipicre. Kermause jojdiwa obuson ocicarol saklo ge ro tatodtok tuotgog efuhap mohcofob lizlirucu ubi zefku umaj ruote. Opagow cozni iko efiz wevalib zum ekoheccib meaje pe cib bozekjod guc mosano taj roij iba. Atfup hilucvo et alesow awe fuk guwuwteg wukosem joug avuk ze ohuket ku ras lallak epilub. Utatook buhvum ra za zozhebkep tef odelika cuc re ikluweb ehje pebcoum rec loj ta. Gifzun cose casuksu taoweof liroffer atudivni famoc coke lina gitsuw pategafu guzif katoba jo siamfir molgales. Pota menuh ne bumo bommeg wefav wetsaan fek idaceul hudijbok sas satzocu me tum orcepkez emlamo zujupugo awe.",
+    "bio": "Ej ep tezpe dod tap da lavo mal no cig kirpanew doozacop. Re lewudbew cowsepif mut go sa ocbegi levhiola ozcahub fimicpes oti zile tacic hu humun acuhakgi lejek. Zumwufvuf ted ujebunwir rinu ja og jibkeh dosnog alese banbit hiruvo nip gouvihib fa ulsipcag fep niglekum gumeg."
+  },
+  "apiKey": "b8564b138bb9e6fa341d157e7af5872d6e548776af91fdbdff1ca19fb0157498",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
