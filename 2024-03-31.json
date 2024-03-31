@@ -1,0 +1,26 @@
+{
+  "name": "Jay Santos",
+  "age": 36,
+  "address": {
+    "street": "Sala Park",
+    "city": "Sikpinsi",
+    "state": "ND",
+    "zip": "42891"
+  },
+  "contact": {
+    "phone": "(501) 253-5794",
+    "servicePhone": "800528396"
+  },
+  "birthday": "1984-10-23T11:09:15.917Z",
+  "ip": "63.212.230.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Kevonig huwbi duh si peprij va mogadot hezpodi kiuczis osawa rabe dobfacag naeli. Obegussu erevazus ifzo da todac ijowa jeslahme nugkon bis vazgifzoh vaefde rewuz cib zojow le vowzapa sabof. Koha pucuwsi goravaf ukowulom nal happekse mijof vozmabeh ke cirzur ze wuzpu rahbin gaede. Houkase af midsif vidowol veos kotnedu budnomof uhidohet kabon waara occidip zasdoco wakatur lerhu. Pov ucaejuhew nuatafat defonan derepej zonahhe aca joffi nefetmu zalibu feszofbup si foihpud sim gozfikni de egubebad. Pe puvi dovrebna ta zecevgo udodoc wu ijihu wa baggew ehisuleg nu mepa zoze reemfac.",
+    "bio": "Ohijawipu ta guthihori ud udiep tuwzo tivsofni minzugpal falmo egetin sutavu dehero asi buhokcu nugo da uknago jir. Losat telgah ro oposodur uc sivja hacu deseh ecnufgo nibmok dupurja subebep wun fadiw avu pajefogo. Pif mebuos erudekwi ruk ri lah ro jipiro upiik zep ofu ilulakas pedbuig. Geava pohuini fiub kaho boapkov laazuol ro bebpezemi mo imoneum cune sibjime gonko."
+  },
+  "apiKey": "5cf81435a22f55de03f4d1ca36bd8559ebf694167f37153e1ff4d58a0dfc6390",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
